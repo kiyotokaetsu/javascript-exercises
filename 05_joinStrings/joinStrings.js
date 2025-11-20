@@ -15,7 +15,7 @@ const birthYear = 1947;
 
 const welcome = "My name is " + firstName + " " + lastName + "and I am  " + (yearDate - birthYear) + " years old";
 
-
+console.log(welcome);
 
 
 // Do not change this
