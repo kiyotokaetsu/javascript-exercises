@@ -17,6 +17,8 @@ const welcome = "My name is " + firstName + " " + lastName + "and I am  " + (yea
 
 console.log(welcome);
 
+// should have made a const age = yearDate - birthYear. and could have made a full name
+
 
 // Do not change this
 module.exports = {
